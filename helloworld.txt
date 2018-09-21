@@ -1,0 +1,42 @@
+hello world!
+use vi to edit
+for the usage:
+i 	insert
+x 	delete
+:q 	quit
+:q! 	quit without any reason 
+:w	write
+:r	read
+:set nu 	show line
+:set nonu	do not show line
+h	j	k	l
+left	down	up	right
+
+u undo
+ctrl+r recvoer
+
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+
+
+
+hello world!
+use vi to edit
+for the usage:
+i 	insert
+x 	delete
+:q 	quit
+:q! 	quit without any reason 
+:w	write
+:r	read
+:set nu 	show line
+:set nonu	do not show line
+h	j	k	l
+left	down	up	right
+
+u undo
+ctrl+r recvoer
+
+
